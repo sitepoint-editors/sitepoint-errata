@@ -19,7 +19,7 @@ Feel free to also report:
 - people badmouthing us
 - posts about SitePoint that are obviously wrong and/or spreading misconceptions
 - anything else *negative* that you can think of
-- 
+
 ## How to report
 
 Just open a new issue and add as much detail as possible.
