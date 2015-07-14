@@ -22,6 +22,6 @@ Feel free to also report:
 
 ## How to report
 
-Just open a new issue and add as much detail as possible.
+Open a new issue and add as much detail as possible. Please use [Support Details](http://supportdetails.com/) to provide details of your OS, browser etc, and screenshot or copy any error messages that may be related to the bug. Also provide a way to get in touch with you for further questions.
 
 Thanks!
