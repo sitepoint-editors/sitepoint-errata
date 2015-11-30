@@ -1,4 +1,4 @@
-# SitePoint Bugs
+# SitePoint Errata
 
 A repository for bug reports and general reader feedback
 
