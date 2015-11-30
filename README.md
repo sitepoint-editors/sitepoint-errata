@@ -27,7 +27,7 @@ Feel free to also report:
 - missing repositories from posts
 - dead links
 
-All of the above should be reported directly to [mailto:support@sitepoint.com]
+All of the above should be reported directly to support@sitepoint.com
 
 ## How to report
 
